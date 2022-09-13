@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - writes the character putc to stdout
- * @putc: the character to print
  *
+ * Return: 0
  */
 
 int main(void)
