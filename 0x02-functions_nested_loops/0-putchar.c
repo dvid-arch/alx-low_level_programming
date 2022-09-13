@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
- * _purtchar - writes the character c to stdout
- * @c: the character to print
+ * main - writes the character c to stdout
+ * @putc: the character to print
  *
- * return: On success 1.
- * on error, -1 is returned, and errno is set appropriately
  */
 
 int main(void)
