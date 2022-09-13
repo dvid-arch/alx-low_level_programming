@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - writes the character c to stdout
+ * main - writes the character putc to stdout
  * @putc: the character to print
  *
  */
