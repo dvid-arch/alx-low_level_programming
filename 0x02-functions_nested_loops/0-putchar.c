@@ -1,12 +1,10 @@
 #include <stdio.h>
 
 
-int main (void) {
+int main(void) {
 
-	    char putc[] = "putchar";
-
-	        printf("%s\n",putc);
-
-		    return 0;
+	char putc[] = "_putchar";
+	printf("%s\n",putc);
+	return 0;
 
 }
