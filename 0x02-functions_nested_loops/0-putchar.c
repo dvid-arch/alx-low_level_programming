@@ -8,6 +8,6 @@ int main(void)
 
 	printf("%s\n", putc);
 
-	return 0;
+	return (0);
 
 }
