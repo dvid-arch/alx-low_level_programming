@@ -1,5 +1,4 @@
-nclude "main.h"
-
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -7,7 +6,6 @@ nclude "main.h"
  *
  * @n: the number to start counting from n to 98
  * Return: Always 0.
- *
  */
 void print_to_98(int n)
 
@@ -37,4 +35,4 @@ void print_to_98(int n)
 
 	}
 
-}i
+}
